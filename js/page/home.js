@@ -9,6 +9,7 @@ const HomePage = {
                 <div class="banner">
                    ${Banner.render()}
                 </div>
+                
                 <div class="news">
                     ${NewList.render()}
                 </div>
